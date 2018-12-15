@@ -1,7 +1,6 @@
 {
   "name": "tcp",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "dependencies": {
     "express": "^4.16.4",
@@ -12,5 +11,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhananjay431/socketio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dhananjay431/socketio/issues"
+  },
+  "homepage": "https://github.com/dhananjay431/socketio#readme",
+  "description": ""
 }
